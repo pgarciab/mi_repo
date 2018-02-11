@@ -1,0 +1,1 @@
+This is a project to start the git training
